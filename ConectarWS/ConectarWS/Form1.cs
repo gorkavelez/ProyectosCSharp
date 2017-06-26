@@ -24,7 +24,7 @@ namespace ConectarWS
             try
             {
                 //click de boton para pruebas de llamada a WS
-                System.Net.NetworkCredential vCred = new System.Net.NetworkCredential("GVELEZ", @"pass@word1", "AXINI");
+                System.Net.NetworkCredential vCred = new System.Net.NetworkCredential("", @"", "");
                 CodeunitWS.PruebasWS vprb = new CodeunitWS.PruebasWS();
                 vprb.UseDefaultCredentials = false;
                 vprb.Credentials = vCred;                                
@@ -83,7 +83,7 @@ namespace ConectarWS
         private void button4_Click(object sender, EventArgs e)
         {
             LineasPrograma.PDA_LineasPrograma_Service vServ = new LineasPrograma.PDA_LineasPrograma_Service();
-            NetworkCredential vCred = new NetworkCredential("gvelez", "pass@word1", "AXINI");
+            NetworkCredential vCred = new NetworkCredential("", "", "");
             vServ.Credentials = vCred;
 
             LineasPrograma.PDA_LineasPrograma_Filter[] vFiltros = new LineasPrograma.PDA_LineasPrograma_Filter[10];
