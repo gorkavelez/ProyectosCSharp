@@ -1,9 +1,0 @@
-c:\users\gvelez\documents\visual studio 2015\Projects\ConectarWS\ConectarWS\bin\Debug\ConectarWS.exe.config
-c:\users\gvelez\documents\visual studio 2015\Projects\ConectarWS\ConectarWS\obj\Debug\ConectarWS.csprojResolveAssemblyReference.cache
-c:\users\gvelez\documents\visual studio 2015\Projects\ConectarWS\ConectarWS\obj\Debug\ConectarWS.Form1.resources
-c:\users\gvelez\documents\visual studio 2015\Projects\ConectarWS\ConectarWS\obj\Debug\ConectarWS.Properties.Resources.resources
-c:\users\gvelez\documents\visual studio 2015\Projects\ConectarWS\ConectarWS\obj\Debug\ConectarWS.csproj.GenerateResource.Cache
-c:\users\gvelez\documents\visual studio 2015\Projects\ConectarWS\ConectarWS\bin\Debug\ConectarWS.exe
-c:\users\gvelez\documents\visual studio 2015\Projects\ConectarWS\ConectarWS\bin\Debug\ConectarWS.pdb
-c:\users\gvelez\documents\visual studio 2015\Projects\ConectarWS\ConectarWS\obj\Debug\ConectarWS.exe
-c:\users\gvelez\documents\visual studio 2015\Projects\ConectarWS\ConectarWS\obj\Debug\ConectarWS.pdb

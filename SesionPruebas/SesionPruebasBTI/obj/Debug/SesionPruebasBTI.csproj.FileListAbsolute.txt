@@ -1,9 +1,0 @@
-c:\users\gvelez\documents\visual studio 2015\Projects\SesionPruebasBTI\SesionPruebasBTI\bin\Debug\SesionPruebasBTI.exe.config
-c:\users\gvelez\documents\visual studio 2015\Projects\SesionPruebasBTI\SesionPruebasBTI\obj\Debug\SesionPruebasBTI.Form1.resources
-c:\users\gvelez\documents\visual studio 2015\Projects\SesionPruebasBTI\SesionPruebasBTI\obj\Debug\SesionPruebasBTI.Properties.Resources.resources
-c:\users\gvelez\documents\visual studio 2015\Projects\SesionPruebasBTI\SesionPruebasBTI\obj\Debug\SesionPruebasBTI.csproj.GenerateResource.Cache
-c:\users\gvelez\documents\visual studio 2015\Projects\SesionPruebasBTI\SesionPruebasBTI\bin\Debug\SesionPruebasBTI.exe
-c:\users\gvelez\documents\visual studio 2015\Projects\SesionPruebasBTI\SesionPruebasBTI\bin\Debug\SesionPruebasBTI.pdb
-c:\users\gvelez\documents\visual studio 2015\Projects\SesionPruebasBTI\SesionPruebasBTI\obj\Debug\SesionPruebasBTI.exe
-c:\users\gvelez\documents\visual studio 2015\Projects\SesionPruebasBTI\SesionPruebasBTI\obj\Debug\SesionPruebasBTI.pdb
-C:\Users\gvelez\documents\visual studio 2015\Projects\SesionPruebasBTI\SesionPruebasBTI\obj\Debug\SesionPruebasBTI.csprojResolveAssemblyReference.cache
