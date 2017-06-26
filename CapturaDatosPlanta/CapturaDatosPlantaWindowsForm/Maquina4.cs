@@ -38,7 +38,7 @@ namespace CapturaDatosPlantaWindowsForm
 
         private void Form1_Load(object sender, EventArgs e)
         {
-			//Carga formulario
+			//Carga formulario prbgve1  
             txtDia.Text = DateTime.Today.ToString("dd/MM/yy");
             TxtHora.Text = DateTime.Now.ToString("HH:00");
             modificadoDatos = false;
