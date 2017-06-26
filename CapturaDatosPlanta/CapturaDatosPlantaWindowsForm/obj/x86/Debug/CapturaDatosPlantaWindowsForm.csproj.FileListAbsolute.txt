@@ -1,0 +1,40 @@
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe.config
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.FormIndex.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina3.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina4.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Properties.Resources.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.REFINOS.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SabanasGrupo.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SeleccionFechas.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.csproj.GenerateResource.Cache
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.exe
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe.config
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.exe
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.pdb
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.pdb
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.FormIndex.resources
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina3.resources
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina4.resources
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Properties.Resources.resources
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.REFINOS.resources
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SabanasGrupo.resources
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SeleccionFechas.resources
+C:\Users\gvelez\Desktop\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.csproj.GenerateResource.Cache
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.FormIndex.resources
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina3.resources
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina4.resources
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Properties.Resources.resources
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.REFINOS.resources
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SabanasGrupo.resources
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SeleccionFechas.resources
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.csproj.GenerateResource.Cache
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe.config
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.pdb
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.exe
+C:\Users\gvelez\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.pdb

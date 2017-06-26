@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapturaDatosPlantaWindowsForm", "CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm.csproj", "{B4C5F9C7-7A71-4645-AADA-762189034CC5}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://s-tfs.local.iniker.com:8080/tfs/iniker
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CapturaDatosPlantaWindowsForm\\CapturaDatosPlantaWindowsForm.csproj
+		SccProjectName1 = CapturaDatosPlantaWindowsForm
+		SccLocalPath1 = CapturaDatosPlantaWindowsForm
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C5F9C7-7A71-4645-AADA-762189034CC5}.Debug|x86.ActiveCfg = Debug|x86
+		{B4C5F9C7-7A71-4645-AADA-762189034CC5}.Debug|x86.Build.0 = Debug|x86
+		{B4C5F9C7-7A71-4645-AADA-762189034CC5}.Release|x86.ActiveCfg = Release|x86
+		{B4C5F9C7-7A71-4645-AADA-762189034CC5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
