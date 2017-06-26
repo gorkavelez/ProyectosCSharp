@@ -70,6 +70,7 @@ namespace ConectarWS
 
         public void CreateSoapRequest()
         {
+            //esta función recupera la respuesta del WS
                         
         }
 
