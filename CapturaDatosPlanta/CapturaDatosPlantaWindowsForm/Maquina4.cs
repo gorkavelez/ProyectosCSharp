@@ -442,7 +442,7 @@ namespace CapturaDatosPlantaWindowsForm
 
         private void btnAtras_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close();//pruebas 
         }
 
         private void Maquina4_SizeChanged(object sender, EventArgs e)
