@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://vm-biotech-2:7047/BtiCalidad/ws/BTI TEST 020516/Codeunit/WS_BTI_ALMACEN" filename="WS_BTI_ALMACEN.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>
