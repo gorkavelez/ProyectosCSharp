@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SesionPruebasBTI.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="SesionPruebasBTI_WS_BTI_Almacen_WS_BTI_ALMACEN" Type="(Web Service URL)" Scope="Application">
-      <Value Profile="(Default)">http://vm-biotech-2:7047/BtiCalidad/ws/BTI%20TEST%20020516/Codeunit/WS_BTI_ALMACEN</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>

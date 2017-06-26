@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConectarWS\\ConectarWS",
+    "\\ConectarWS\\ConectarWS\\bin",
+    "\\ConectarWS\\ConectarWS\\obj",
+    "\\ConectarWS\\ConectarWS\\Properties",
+    "\\ConectarWS\\ConectarWS\\Web References",
+    "\\ConectarWS\\ConectarWS\\Web References\\CodeunitWS",
+    "\\ConectarWS\\ConectarWS\\Web References\\com.w3schools.www",
+    "\\ConectarWS\\ConectarWS\\Web References\\LineasPrograma",
+    "\\SesionPruebas"
   ],
+  "SelectedNode": "\\SesionPruebas\\SesionPruebas.sln",
   "PreviewInSolutionExplorer": false
 }
