@@ -23,6 +23,7 @@ namespace ConectarWS
 
             try
             {
+                //click de boton para pruebas de llamada a WS
                 System.Net.NetworkCredential vCred = new System.Net.NetworkCredential("GVELEZ", @"pass@word1", "AXINI");
                 CodeunitWS.PruebasWS vprb = new CodeunitWS.PruebasWS();
                 vprb.UseDefaultCredentials = false;
