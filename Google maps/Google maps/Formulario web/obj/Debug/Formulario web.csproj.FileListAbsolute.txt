@@ -1,0 +1,5 @@
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\Formulario web\bin\Formulario web.dll
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\Formulario web\bin\Formulario web.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\Formulario web\obj\Debug\Formulario web.dll
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\Formulario web\obj\Debug\Formulario web.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\Formulario web\obj\Debug\Formulario web.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\bin\Debug\ProyectoFormulario.exe
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\bin\Debug\ProyectoFormulario.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\bin\Debug\ClasesLogicas.dll
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\bin\Debug\ClasesLogicas.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\obj\x86\Debug\ProyectoFormulario.csprojResolveAssemblyReference.cache
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\obj\x86\Debug\ProyectoFormulario.Properties.Resources.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\obj\x86\Debug\ProyectoFormulario.csproj.GenerateResource.Cache
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\obj\x86\Debug\ProyectoFormulario.exe
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\obj\x86\Debug\ProyectoFormulario.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ProyectoFormulario\obj\x86\Debug\ProyectoFormulario.btnSelectFile.resources

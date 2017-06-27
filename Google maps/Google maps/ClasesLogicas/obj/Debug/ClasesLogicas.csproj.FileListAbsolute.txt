@@ -1,0 +1,5 @@
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ClasesLogicas\bin\Debug\ClasesLogicas.dll
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ClasesLogicas\bin\Debug\ClasesLogicas.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ClasesLogicas\obj\Debug\ClasesLogicas.dll
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ClasesLogicas\obj\Debug\ClasesLogicas.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\ClasesLogicas\ClasesLogicas\obj\Debug\ClasesLogicas.csprojResolveAssemblyReference.cache
