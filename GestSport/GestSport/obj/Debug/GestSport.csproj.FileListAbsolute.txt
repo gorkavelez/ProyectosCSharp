@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\bin\GestSport.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\bin\GestSport.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\bin\BDConexion.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\bin\GestSportEntidades.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\bin\GestSportEntidades.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\bin\BDConexion.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\obj\Debug\GestSport.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\obj\Debug\GestSport.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\obj\Debug\GestSport.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\GestSport\obj\Debug\GestSport.pdb

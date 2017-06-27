@@ -1,0 +1,6 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\NegocioGestSport\bin\Debug\NegocioGestSport.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\NegocioGestSport\bin\Debug\NegocioGestSport.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\NegocioGestSport\bin\Debug\NegocioGestSport.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\NegocioGestSport\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\NegocioGestSport\obj\Debug\NegocioGestSport.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\NegocioGestSport\obj\Debug\NegocioGestSport.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\BDConexion\bin\Debug\BDConexion.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\BDConexion\bin\Debug\BDConexion.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\BDConexion\bin\Debug\NegocioGestSport.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\BDConexion\bin\Debug\NegocioGestSport.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\BDConexion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\BDConexion\obj\Debug\BDConexion.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\GestSport\BDConexion\obj\Debug\BDConexion.pdb
