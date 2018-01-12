@@ -1,0 +1,8 @@
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\lanzadorIntegracion\bin\Debug\lanzadorIntegracion.dll.config
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\lanzadorIntegracion\bin\Debug\lanzadorIntegracion.dll
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\lanzadorIntegracion\bin\Debug\lanzadorIntegracion.pdb
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\lanzadorIntegracion\bin\Debug\EntIntNavLocalViscoStock.dll
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\lanzadorIntegracion\bin\Debug\EntIntNavLocalViscoStock.pdb
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\lanzadorIntegracion\obj\Debug\WINIntegracionNavLocalViscoStock.csprojResolveAssemblyReference.cache
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\lanzadorIntegracion\obj\Debug\lanzadorIntegracion.dll
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\lanzadorIntegracion\obj\Debug\lanzadorIntegracion.pdb

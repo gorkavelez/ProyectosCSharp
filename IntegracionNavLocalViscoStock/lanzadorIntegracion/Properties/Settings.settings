@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="lanzadorIntegracion.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="urlInicioWS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://sppamvm43.viscofan.group:7047/DynamicsNav/ws/</Value>
+    </Setting>
+    <Setting Name="spIntegracionViscoStock" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ShippingViscoStockCorp</Value>
+    </Setting>
+    <Setting Name="svTiempo" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">60000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,4 @@
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\IntegracionNavLocalViscoStock\obj\x86\Debug\lanzadorIntegracion.csprojResolveAssemblyReference.cache
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\IntegracionNavLocalViscoStock\obj\x86\Debug\IntegracionNavLocalViscoStock.srvWinNavLocalViscoStock.resources
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\IntegracionNavLocalViscoStock\obj\x86\Debug\lanzadorIntegracion.csproj.GenerateResource.Cache
+C:\Users\EF01\Desktop\DESARROLLOS\VISCOFAN\IntegracionNavLocalViscoStock\IntegracionNavLocalViscoStock\obj\x86\Debug\IntegracionNavLocalViscoStock.exe
