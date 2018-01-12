@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CapturaDatosPlantaWindowsForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="urlInicioWS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://10.35.35.73:7047/DynamicsNAV/WS/</Value>
+    </Setting>
+    <Setting Name="useDefCredentials" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="userID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">gvelez</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pass@word1</Value>
+    </Setting>
+    <Setting Name="domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AXINI</Value>
+    </Setting>
+    <Setting Name="defCompany" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SMURFIT KAPPA</Value>
+    </Setting>
+    <Setting Name="COSMO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://10.35.35.73:7047/DynamicsNAV/WS/, gvelez, pass@word1,SMURFIT KAPPA</Value>
+    </Setting>
+    <Setting Name="SMURFIT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://eu-hub-m013:7047/DynamicsNAV/WS/, -es-skg-navision, Sangu123,es.group.wan, SMURFIT KAPPA NAVARRA, S.A., </Value>
+    </Setting>
+    <Setting Name="Produccion" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

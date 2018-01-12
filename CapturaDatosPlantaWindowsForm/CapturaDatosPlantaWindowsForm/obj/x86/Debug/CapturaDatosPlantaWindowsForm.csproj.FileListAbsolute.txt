@@ -1,0 +1,28 @@
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe.config
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.FormIndex.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina3.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina4.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Properties.Resources.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.REFINOS.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SabanasGrupo.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SeleccionFechas.resources
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.csproj.GenerateResource.Cache
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.exe
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.pdb
+C:\Users\GVE\Documents\Visual Studio 2010\Projects\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.csprojResolveAssemblyReference.cache
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe.config
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.pdb
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.csprojResolveAssemblyReference.cache
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.FormIndex.resources
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina3.resources
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Maquina4.resources
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.Properties.Resources.resources
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.REFINOS.resources
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SabanasGrupo.resources
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.SeleccionFechas.resources
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.csproj.GenerateResource.Cache
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.exe
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.pdb
