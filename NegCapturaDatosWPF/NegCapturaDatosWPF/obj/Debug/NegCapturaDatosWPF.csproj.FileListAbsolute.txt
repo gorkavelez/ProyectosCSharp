@@ -1,0 +1,18 @@
+c:\users\gvelez8221\documents\visual studio 2017\Projects\NegCapturaDatosWPF\NegCapturaDatosWPF\bin\Debug\NegCapturaDatosWPF.dll
+c:\users\gvelez8221\documents\visual studio 2017\Projects\NegCapturaDatosWPF\NegCapturaDatosWPF\bin\Debug\NegCapturaDatosWPF.pdb
+c:\users\gvelez8221\documents\visual studio 2017\Projects\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.csprojResolveAssemblyReference.cache
+c:\users\gvelez8221\documents\visual studio 2017\Projects\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.Properties.Resources.resources
+c:\users\gvelez8221\documents\visual studio 2017\Projects\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.csproj.GenerateResource.Cache
+c:\users\gvelez8221\documents\visual studio 2017\Projects\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.dll
+c:\users\gvelez8221\documents\visual studio 2017\Projects\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.pdb
+c:\users\gvelez8221\documents\visual studio 2017\Projects\NegCapturaDatosWPF\NegCapturaDatosWPF\bin\Debug\NegCapturaDatosWPF.dll.config
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\bin\Debug\NegCapturaDatosWPF.dll.config
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\bin\Debug\NegCapturaDatosWPF.dll
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\bin\Debug\NegCapturaDatosWPF.pdb
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\bin\Debug\WPFIntegration.dll
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.Properties.Resources.resources
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.csproj.GenerateResource.Cache
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.csproj.CoreCompileInputs.cache
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.dll
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.pdb
+D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\NegCapturaDatosWPF\NegCapturaDatosWPF\obj\Debug\NegCapturaDatosWPF.csprojResolveAssemblyReference.cache
