@@ -9,6 +9,6 @@ namespace ClasesLogicas
 {
     public class ClaseConexion
     {
-        
+        int vIndex =0;
     }
 }
