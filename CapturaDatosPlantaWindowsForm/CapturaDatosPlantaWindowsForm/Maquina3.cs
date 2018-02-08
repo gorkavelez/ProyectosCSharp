@@ -12,7 +12,7 @@ namespace CapturaDatosPlantaWindowsForm
     public partial class Maquina3 : Form
     {
 
-        string _sabana = string.Empty;
+        string _sabana = string.Empty; 
         string _usuario = string.Empty;
         bool modificadoDatos = false;        
 
