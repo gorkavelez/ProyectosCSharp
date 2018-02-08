@@ -10,7 +10,5 @@ namespace ClasesLogicas
     public class ClaseConexion
     {
         
-        
-
     }
 }
