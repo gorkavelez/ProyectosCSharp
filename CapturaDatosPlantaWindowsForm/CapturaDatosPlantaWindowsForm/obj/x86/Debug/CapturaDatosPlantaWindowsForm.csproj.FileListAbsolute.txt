@@ -26,3 +26,6 @@ D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\C
 D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.csproj.GenerateResource.Cache
 D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.exe
 D:\COSMO\Proyectos COSMO .NET\CosmoProyectos Git\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.pdb
+C:\SALTO\proyectosGIT\ProyectosCSharp\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\bin\Debug\CapturaDatosPlantaWindowsForm.exe.config
+C:\SALTO\proyectosGIT\ProyectosCSharp\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.exe
+C:\SALTO\proyectosGIT\ProyectosCSharp\CapturaDatosPlantaWindowsForm\CapturaDatosPlantaWindowsForm\obj\x86\Debug\CapturaDatosPlantaWindowsForm.pdb
