@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsEtiquetas" targetNamespace="http://tempuri.org/dsEtiquetas.xsd" xmlns:mstns="http://tempuri.org/dsEtiquetas.xsd" xmlns="http://tempuri.org/dsEtiquetas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsEtiquetas" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsEtiquetas" msprop:Generator_UserDSName="dsEtiquetas" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtEtiquetas" msprop:Generator_UserTableName="dtEtiquetas" msprop:Generator_RowDeletedName="dtEtiquetasRowDeleted" msprop:Generator_TableClassName="dtEtiquetasDataTable" msprop:Generator_RowChangedName="dtEtiquetasRowChanged" msprop:Generator_RowClassName="dtEtiquetasRow" msprop:Generator_RowChangingName="dtEtiquetasRowChanging" msprop:Generator_RowEvArgName="dtEtiquetasRowChangeEvent" msprop:Generator_RowEvHandlerName="dtEtiquetasRowChangeEventHandler" msprop:Generator_TablePropName="dtEtiquetas" msprop:Generator_TableVarName="tabledtEtiquetas" msprop:Generator_RowDeletingName="dtEtiquetasRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="etiqueta" msprop:Generator_UserColumnName="etiqueta" msprop:Generator_ColumnPropNameInRow="etiqueta" msprop:Generator_ColumnVarNameInTable="columnetiqueta" msprop:Generator_ColumnPropNameInTable="etiquetaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="registro" msprop:Generator_UserColumnName="registro" msprop:Generator_ColumnPropNameInRow="registro" msprop:Generator_ColumnVarNameInTable="columnregistro" msprop:Generator_ColumnPropNameInTable="registroColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="codCliente" msprop:Generator_UserColumnName="codCliente" msprop:Generator_ColumnPropNameInRow="codCliente" msprop:Generator_ColumnVarNameInTable="columncodCliente" msprop:Generator_ColumnPropNameInTable="codClienteColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="nomCliente" msprop:Generator_UserColumnName="nomCliente" msprop:Generator_ColumnPropNameInRow="nomCliente" msprop:Generator_ColumnVarNameInTable="columnnomCliente" msprop:Generator_ColumnPropNameInTable="nomClienteColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="codProducto" msprop:Generator_UserColumnName="codProducto" msprop:Generator_ColumnPropNameInRow="codProducto" msprop:Generator_ColumnVarNameInTable="columncodProducto" msprop:Generator_ColumnPropNameInTable="codProductoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="nomProducto" msprop:Generator_UserColumnName="nomProducto" msprop:Generator_ColumnPropNameInRow="nomProducto" msprop:Generator_ColumnVarNameInTable="columnnomProducto" msprop:Generator_ColumnPropNameInTable="nomProductoColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

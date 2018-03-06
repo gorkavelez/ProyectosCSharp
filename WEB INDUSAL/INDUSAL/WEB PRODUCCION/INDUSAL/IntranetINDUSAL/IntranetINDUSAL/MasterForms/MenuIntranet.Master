@@ -1,0 +1,122 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MenuIntranet.master.cs" Inherits="IntranetINDUSAL.MasterForms.MenuIntranet" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+        .style1
+        {
+            width: 75px;
+        }
+        .MenuIE8
+        {
+        	z-index: 50;
+        }
+        .LiteralesEncabezado
+        {
+        	font-weight:bold;
+        	font-family:Calibri;
+        	font-size:12pt;
+        	color:#7C6F57;
+        	width:100%;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        <table style="width: 100%;">
+            <tr>
+                <td class="style1">
+                    <img src="../Imagenes/grupo_indusal.gif" />
+                </td>
+                <td>
+                <table style="height:100%;">
+                    <tr>
+                        <td>
+                            <table style="width:100%;">
+                                <tr>
+                                    <td style="width:80%;">
+                                        <asp:Label ID="lbEmpresa" runat="server" CssClass="LiteralesEncabezado"></asp:Label>
+                                    </td>                                        
+                                    <td style="width:10%; ">
+                                        <asp:Label ID="lbFecha" runat="server" Text="" CssClass="LiteralesEncabezado"></asp:Label>
+                                    </td>
+                                    <td style="width:10%;">
+                                        <asp:Label ID="lbHora" runat="server" Text="" CssClass="LiteralesEncabezado"></asp:Label>
+                                    </td>
+                                </tr>
+                            </table>                            
+                        </td>
+                    </tr>                    
+                    <tr>
+                        <td>
+                            <asp:Menu ID="menuPrincipal" runat="server" BackColor="#F7F6F3" DynamicHorizontalOffset="2"
+                                Font-Names="Calibri" Font-Size="11pt" ForeColor="#7C6F57" Orientation="Horizontal"
+                                StaticSubMenuIndent="10px" Width="646px" Height="39px" 
+                                DynamicPopOutImageTextFormatString="" Font-Bold="True" 
+                                style="margin-top: 0px" DisappearAfter="3000">
+                                <StaticSelectedStyle BackColor="#FF8000" />
+                                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" Font-Size="Large" 
+                                                Height="50px" Width="150px" />
+                                <DynamicHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                                <DynamicMenuStyle BackColor="#F7F6F3" CssClass="MenuIE8" />
+                                <DynamicSelectedStyle BackColor="#5D7B9D" />
+                                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="5px" 
+                                    Font-Names="Calibri" Font-Size="Large" Height="50px" />
+                                <StaticHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                                <Items>
+                                    <asp:MenuItem Text="RECEPCION" Value="RECEPCION" 
+                                        NavigateUrl="~/WebForms/RecepcionRopa.aspx"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/WebForms/DesaprestadoRopa.aspx" Text="DESAPRESTADO" 
+                                        Value="DESAPRESTADO"></asp:MenuItem>
+                                    <asp:MenuItem Text="CONTEO ROPA" Value="CONTEO_ROPA" 
+                                        NavigateUrl="~/WebForms/ConteoRopa.aspx"></asp:MenuItem>
+                                        <asp:MenuItem Text="LAVADO" Value="LAVADO">
+                                            <asp:MenuItem Text="LAVADORA" Value="LAVADORA" 
+                                                NavigateUrl="~/WebForms/wfmLavadora.aspx"></asp:MenuItem>
+                                            <asp:MenuItem Text="TUNEL DE LAVADO" Value="TUNEL DE LAVADO" 
+                                                NavigateUrl="~/WebForms/wfmTunelLavado.aspx"></asp:MenuItem>
+                                    </asp:MenuItem>
+                                        <asp:MenuItem Text="RECHAZO" Value="RECHAZO">
+                                            <asp:MenuItem NavigateUrl="~/WebForms/wmfRechazo.aspx" Text="RECHAZAR" 
+                                                Value="RECHAZAR">
+                                            </asp:MenuItem>
+                                            <asp:MenuItem Text="COSTURA" Value="COSTURA" 
+                                                NavigateUrl="~/WebForms/wmfCostura.aspx"></asp:MenuItem>
+                                            <asp:MenuItem Text="OXIDO/GRASA" Value="OXIDO/GRASA" 
+                                                NavigateUrl="~/WebForms/wmfOxido.aspx"></asp:MenuItem>
+                                    </asp:MenuItem>
+                                        <asp:MenuItem Text="PLANCHADO" Value="PLANCHADO">
+                                            <asp:MenuItem Text="CALANDRAS" Value="CALANDRAS" 
+                                                NavigateUrl="~/WebForms/Planchado.aspx?Tipo=0"></asp:MenuItem>
+                                            <asp:MenuItem Text="FELPA" Value="FELPA" 
+                                                NavigateUrl="~/WebForms/PlanchadoCalandra.aspx?Tipo=1"></asp:MenuItem>
+                                            <asp:MenuItem Text="FORMA" Value="FORMA" 
+                                                NavigateUrl="~/WebForms/PlanchadoCalandra.aspx?Tipo=2"></asp:MenuItem>
+                                    </asp:MenuItem>
+                                </Items>
+                            </asp:Menu>
+                        </td>
+                    </tr>                    
+                </table>                   
+                </td>
+            </tr>
+            <tr style="height:30px;">
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

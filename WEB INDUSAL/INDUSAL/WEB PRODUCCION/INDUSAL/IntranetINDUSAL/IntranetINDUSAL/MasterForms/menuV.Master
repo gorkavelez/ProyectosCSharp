@@ -1,0 +1,119 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="menuV.master.cs" Inherits="IntranetINDUSAL.MasterForms.menuV" %>
+
+<%@ Register Assembly="Telerik.Web.UI, Version=2009.1.527.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4"
+    Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style2
+        {
+            width: 733px;
+        }
+        .style3
+        {
+            width: 163px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width:100%;">
+            <tr>
+            <td class="style3">
+            <table style="width: 164px">                
+                <tr>
+                    <td class="style2">
+                        <img src="../Imagenes/grupo_indusal.gif" /></td>                    
+                </tr>
+                <tr>    
+                    <td class="style2">                
+                        <telerik:RadMenu ID="RadMenu1" runat="server" Flow="Vertical" Skin="Office2007">
+                        <Items>
+                            <telerik:RadMenuItem runat="server" Text="Recepción" Value="recepcion" 
+                                BorderStyle="None" Font-Size="Large" 
+                                NavigateUrl="~/WebForms/RecepcionRopa.aspx" Height="25px">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" Text="Root RadMenuItem7" IsSeparator="True">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" Font-Size="Large" Height="25px" 
+                                NavigateUrl="~/WebForms/DesaprestadoRopa.aspx" Text="Desaprestado" 
+                                Value="desaprestado">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" IsSeparator="True" Text="Root RadMenuItem8">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" Text="Conteo" Value="conteo" 
+                                Font-Size="Large" NavigateUrl="~/WebForms/ConteoRopa.aspx" Height="25px">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" IsSeparator="True" Text="Root RadMenuItem9">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" Text="Lavado" Value="lavado" 
+                                Font-Size="Large" Height="25px">
+                                <Items>
+                                    <telerik:RadMenuItem runat="server" Text="Lavadoras" Value="lavadoras" 
+                                        Font-Size="Large" NavigateUrl="~/WebForms/Lavadora.aspx">
+                                    </telerik:RadMenuItem>
+                                    <telerik:RadMenuItem runat="server" Text="Child RadMenuItem 3" Height="30px" 
+                                        IsSeparator="True" PostBack="False">
+                                    </telerik:RadMenuItem>
+                                    <telerik:RadMenuItem runat="server" Font-Size="Large" 
+                                        NavigateUrl="~/WebForms/TunelLavado.aspx" Text="Túneles lavado" Value="tuneles">
+                                    </telerik:RadMenuItem>
+                                </Items>
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" IsSeparator="True" 
+                                Text="Root RadMenuItem10">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" Text="Rechazo" Value="rechazo" 
+                                Font-Size="Large" Height="25px">
+                                <Items>
+                                    <telerik:RadMenuItem runat="server" Text="Rechazar" Value="rechazar" 
+                                        Font-Size="Large" NavigateUrl="~/WebForms/RechazoRopa.aspx">
+                                    </telerik:RadMenuItem>
+                                    <telerik:RadMenuItem runat="server" Text="Costura" Value="costura" 
+                                        Font-Size="Large" NavigateUrl="~/WebForms/RechazadoCostura.aspx">
+                                    </telerik:RadMenuItem>
+                                    <telerik:RadMenuItem runat="server" Text="Oxido/Grasa" Value="oxido" 
+                                        Font-Size="Large" NavigateUrl="~/WebForms/RechazadoOxido.aspx">
+                                    </telerik:RadMenuItem>
+                                </Items>
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" IsSeparator="True" 
+                                Text="Root RadMenuItem11">
+                            </telerik:RadMenuItem>
+                            <telerik:RadMenuItem runat="server" Text="Planchado" Value="planchado" 
+                                Font-Size="Large" Height="25px">
+                                <Items>
+                                    <telerik:RadMenuItem runat="server" Text="Calandras" Value="calandras" 
+                                        Font-Size="Large" NavigateUrl="~/WebForms/PlanchadoCalandra.aspx">
+                                    </telerik:RadMenuItem>
+                                    <telerik:RadMenuItem runat="server" Text="Felpa" Value="felpa" 
+                                        Font-Size="Large" NavigateUrl="~/WebForms/PlanchadoFelpa.aspx">
+                                    </telerik:RadMenuItem>
+                                    <telerik:RadMenuItem runat="server" Text="Forma" Value="forma" 
+                                        Font-Size="Large" NavigateUrl="~/WebForms/PlanchadoForma.aspx">
+                                    </telerik:RadMenuItem>
+                                </Items>
+                            </telerik:RadMenuItem>
+                        </Items>
+                        </telerik:RadMenu>
+                     </td>
+                </tr>
+            </table>
+            </td>
+            <td style="vertical-align:top;" >
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">        
+        </asp:ContentPlaceHolder>
+        </td>
+        </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

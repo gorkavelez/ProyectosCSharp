@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExtranetSubcontratacion.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="usuarioPruebas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">JCA</Value>
+    </Setting>
+    <Setting Name="dominioPruebas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">INTERNO\</Value>
+    </Setting>
+    <Setting Name="passwordPruebas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Iniker1</Value>
+    </Setting>
+    <Setting Name="useDefCredts" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

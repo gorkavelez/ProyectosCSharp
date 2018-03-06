@@ -1,0 +1,232 @@
+﻿.etiqueta
+{        
+    font-family:Calibri;
+    font-size: Large;
+    font-weight:bold;                                    
+}
+.etiquetaRecepcion
+{
+    height: 12mm;
+    width:35mm;
+    font-family:Calibri;
+    font-size: Large;
+    font-weight:bold;                                    
+}
+.botonRecepcion
+{
+    height: 12mm;
+    width:30mm;
+    font-family:Calibri;
+    font-size: Large;
+    font-weight:bold;                                    
+}
+.botonSeleccion
+{
+    height: 13mm;
+    width:30mm;
+    font-family:Calibri;
+    font-size: Large;
+    font-weight:bold;                                    
+}
+.botonPeso
+{
+    height: 12mm;
+    width:12mm;
+    font-family:Calibri;
+    font-size: Large;
+    font-weight:bold;                                    
+}
+.etiquetaSeleccion
+{
+    height: 20px;
+    width: 30mm;
+    font-family:Calibri;
+    font-size:small;
+    font-weight:bold;                                    
+}    
+.etiquetaPedido
+{
+    height: 12mm;
+    width: 100mm;
+    font-family:Calibri;
+    font-size: Large;
+    font-weight:bold;                                    
+}
+.etiquetaPeq
+{
+    height: 12mm;
+    width: 120px;
+    font-family:Calibri;
+    font-size: Large;
+    font-weight:bold;                                    
+}        
+.descripcion
+{
+	font-family:Calibri;
+	height: 12mm;
+    width: 500px;  
+    vertical-align:middle;          
+} 
+.descripcionSeleccion
+{
+	font-family:Calibri;
+	height: 20px;
+    width: 120mm;
+    font-family:Calibri;
+    font-size:small;            
+}
+.descripcionPedido
+{
+	font-family:Calibri;
+	height: 50px;
+    width: 450px;            
+}          
+.boton
+{
+    height: 15mm;
+	width: 35mm;
+	font-family:Calibri;
+    font-size:large;
+    font-weight:bold;            
+}
+.botonCostura
+{
+    height: 22mm;
+	width: 30mm;
+	font-family:Calibri;
+    font-size:medium;
+    font-weight:bold;            
+}
+.textoEtiqueta
+{
+	font-family:Calibri;
+    font-size: medium;
+    font-weight:bold; 
+}          
+.textoBotonSurtido
+{
+	height:80px;
+	width:125px;
+	font-family:Calibri;
+    font-size:small;                                                
+}
+.textoBotonTurno
+{
+	height:80px;
+	width:125px;
+	font-family:Calibri;
+    font-size:Large;                                                
+}         
+.panelBotones
+{
+	width:1020px;
+	vertical-align:top;
+}
+.txIntro
+{
+	width: 28mm;	
+	font-size: xx-Large;
+	font-weight:bold;
+	text-align: right;
+}
+.etiquetaIntro
+{
+    height: 50px;
+    width: 120px;
+    font-family:Calibri;
+    font-size: Large;
+    font-weight:bold;                                    
+}
+.etiquetaBoton
+{
+    height: 80px;
+    width: 120px;
+    font-family:Calibri;
+    font-size: Large;
+    font-weight:bold;   
+    text-align:center;                                 
+}
+.gridLineas
+{
+	font-family:Calibri;
+	font-size:medium;
+	width:auto;
+}
+.gridLineasReadOnly
+{
+	font-family:Calibri;
+	font-size:small;
+	width:auto;
+}
+.desplegable
+{
+	font-size: x-large;
+	width:110mm;			
+}
+.desplegablePedidos
+{
+	font-size: xx-large;
+	width:70mm;			
+}
+.desplegableCarros
+{
+	font-size: x-large;
+	width:67mm;			
+}
+.codigo
+{
+	font-size: xx-large;
+	font-weight: bold;
+	color: #808080;	
+	text-align: right;	
+	width:60mm;
+}
+.codigoCliente
+{
+	font-size: xx-large;
+	font-weight: bold;
+	color: #808080;	
+	text-align: right;	
+	width:30mm;
+}
+.descripcionCodigo
+{
+	font-size: x-large;
+	font-weight: bold;
+	color: #808080;	
+	text-align: right;	
+	width:30mm;
+}
+.numeroPedido
+{
+	font-size: xx-large;
+	font-weight: bold;
+	color: #808080;		
+	width:65mm;
+}
+.codigoProducto
+{
+	font-size: xx-large;
+	font-weight: bold;
+	color: #808080;	
+	text-align: right;	
+	width:50mm;
+}
+.panelSurtido
+{
+	width:160mm;
+}
+.panelTurnos
+{
+	width:100mm;
+}	
+.panelTeclado
+{	
+	width:65mm;
+}
+.panelDatos
+{
+	width:180mm;
+}
+	
+	

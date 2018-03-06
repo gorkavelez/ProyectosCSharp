@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsEtiquetas" targetNamespace="http://tempuri.org/dsEtiquetas.xsd" xmlns:mstns="http://tempuri.org/dsEtiquetas.xsd" xmlns="http://tempuri.org/dsEtiquetas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsEtiquetas" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsEtiquetas" msprop:Generator_DataSetName="dsEtiquetas" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtClientePedidoProducto" msprop:Generator_UserTableName="dtClientePedidoProducto" msprop:Generator_RowDeletedName="dtClientePedidoProductoRowDeleted" msprop:Generator_RowChangedName="dtClientePedidoProductoRowChanged" msprop:Generator_RowClassName="dtClientePedidoProductoRow" msprop:Generator_RowChangingName="dtClientePedidoProductoRowChanging" msprop:Generator_RowEvArgName="dtClientePedidoProductoRowChangeEvent" msprop:Generator_RowEvHandlerName="dtClientePedidoProductoRowChangeEventHandler" msprop:Generator_TableClassName="dtClientePedidoProductoDataTable" msprop:Generator_TableVarName="tabledtClientePedidoProducto" msprop:Generator_RowDeletingName="dtClientePedidoProductoRowDeleting" msprop:Generator_TablePropName="dtClientePedidoProducto">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="indice" msprop:Generator_UserColumnName="indice" msprop:Generator_ColumnVarNameInTable="columnindice" msprop:Generator_ColumnPropNameInRow="indice" msprop:Generator_ColumnPropNameInTable="indiceColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="codCliente" msprop:Generator_UserColumnName="codCliente" msprop:Generator_ColumnVarNameInTable="columncodCliente" msprop:Generator_ColumnPropNameInRow="codCliente" msprop:Generator_ColumnPropNameInTable="codClienteColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="pedido" msprop:Generator_UserColumnName="pedido" msprop:Generator_ColumnVarNameInTable="columnpedido" msprop:Generator_ColumnPropNameInRow="pedido" msprop:Generator_ColumnPropNameInTable="pedidoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="producto" msprop:Generator_UserColumnName="producto" msprop:Generator_ColumnVarNameInTable="columnproducto" msprop:Generator_ColumnPropNameInRow="producto" msprop:Generator_ColumnPropNameInTable="productoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="nomCliente" msprop:Generator_UserColumnName="nomCliente" msprop:Generator_ColumnVarNameInTable="columnnomCliente" msprop:Generator_ColumnPropNameInRow="nomCliente" msprop:Generator_ColumnPropNameInTable="nomClienteColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="nomProducto" msprop:Generator_UserColumnName="nomProducto" msprop:Generator_ColumnVarNameInTable="columnnomProducto" msprop:Generator_ColumnPropNameInRow="nomProducto" msprop:Generator_ColumnPropNameInTable="nomProductoColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

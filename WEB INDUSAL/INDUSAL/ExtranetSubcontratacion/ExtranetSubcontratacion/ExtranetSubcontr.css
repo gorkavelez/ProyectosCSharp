@@ -1,0 +1,64 @@
+﻿.texto_normal
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	vertical-align:top;
+	text-align:left;
+}
+.texto_titulo
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	vertical-align:top;
+	text-align:left;
+}
+.texto_azul
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;	
+	color:#00618A;
+	vertical-align:top;
+	text-align:left;
+}
+.texto_link
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	vertical-align:top;
+	text-align:left;
+}
+.panel_general
+{
+	width:200mm;
+}
+.desplegable
+{
+	width:12cm;
+}
+.panel_login
+{
+	border-color:#CCCC99;
+	border-style:solid;
+	border-width:1px;
+	background-color:#F7F7DE;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	width:100mm;
+}
+.title_panel_login
+{
+	background-color:#6B696B;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-align:center;
+	height:5mm;
+}
+.footer_panel_Login
+{
+	text-align:right;	
+}
+	

@@ -1,0 +1,45 @@
+﻿.encabezado_emisor
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#000000;
+	vertical-align:top;
+	text-align:left;
+}
+
+.encabezado_emisor_bold
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#000000;
+	vertical-align:top;
+	text-align:left;
+	font-weight: bold;
+}
+
+.encabezado_emisor_grande
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#000000;
+	vertical-align:top;
+	text-align:left;
+	font-weight: bold;
+}
+
+.lineas
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;		
+}
+
+.separador
+{
+	width:85mm;
+}
+
+.boton
+{
+	display:none;
+}

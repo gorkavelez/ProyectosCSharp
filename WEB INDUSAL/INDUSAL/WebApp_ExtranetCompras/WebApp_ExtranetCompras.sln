@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp_ExtranetCompras", "WebApp_ExtranetCompras\WebApp_ExtranetCompras.csproj", "{A7AB133A-3979-4E22-9F34-15B36738A555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades_ExtranetCompras", "Entidades_ExtranetCompras\Entidades_ExtranetCompras.csproj", "{30192597-A304-4D82-BDB5-2A63E183014C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7AB133A-3979-4E22-9F34-15B36738A555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AB133A-3979-4E22-9F34-15B36738A555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AB133A-3979-4E22-9F34-15B36738A555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AB133A-3979-4E22-9F34-15B36738A555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30192597-A304-4D82-BDB5-2A63E183014C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30192597-A304-4D82-BDB5-2A63E183014C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30192597-A304-4D82-BDB5-2A63E183014C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30192597-A304-4D82-BDB5-2A63E183014C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

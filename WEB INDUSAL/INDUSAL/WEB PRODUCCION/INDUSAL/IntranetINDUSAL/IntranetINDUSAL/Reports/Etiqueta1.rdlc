@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="DummyDataSource">
+      <rd:DataSourceID>2cbb2e41-31b0-49f4-992f-aea3b39fed51</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>
+        </DataProvider>
+        <ConnectString>
+        </ConnectString>
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>8cm</InteractiveHeight>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>12cm</InteractiveWidth>
+  <rd:GridSpacing>0.25cm</rd:GridSpacing>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>2.5cm</RightMargin>
+  <LeftMargin>2.5cm</LeftMargin>
+  <BottomMargin>2.5cm</BottomMargin>
+  <rd:ReportID>7e8ee1e4-7b57-4b39-b025-368b066e8ca6</rd:ReportID>
+  <PageWidth>12cm</PageWidth>
+  <DataSets>
+    <DataSet Name="dsEtiquetas_dtClientePedidoProducto">
+      <Fields>
+        <Field Name="indice">
+          <DataField>indice</DataField>
+          <rd:TypeName>System.Int16</rd:TypeName>
+        </Field>
+        <Field Name="codCliente">
+          <DataField>codCliente</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="pedido">
+          <DataField>pedido</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="producto">
+          <DataField>producto</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="nomCliente">
+          <DataField>nomCliente</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="nomProducto">
+          <DataField>nomProducto</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DummyDataSource</DataSourceName>
+        <CommandText>
+        </CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>dsEtiquetas</rd:DataSetName>
+        <rd:TableName>dtClientePedidoProducto</rd:TableName>
+        <rd:TableAdapterName>
+        </rd:TableAdapterName>
+        <rd:TableAdapterFillMethod>
+        </rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>
+        </rd:TableAdapterGetDataMethod>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Width>12cm</Width>
+  <Body>
+    <ColumnSpacing>1cm</ColumnSpacing>
+    <ReportItems>
+      <Rectangle Name="rectangle3">
+        <ZIndex>2</ZIndex>
+        <ReportItems>
+          <Textbox Name="textbox3">
+            <Top>0.25cm</Top>
+            <Width>11.5cm</Width>
+            <Style>
+              <FontSize>14pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>1</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.25cm</Left>
+            <Height>1.5cm</Height>
+            <Value>=Fields!nomProducto.Value</Value>
+          </Textbox>
+          <Textbox Name="producto">
+            <rd:DefaultName>producto</rd:DefaultName>
+            <Top>2cm</Top>
+            <Width>10cm</Width>
+            <Style>
+              <FontFamily>IDAutomationC128XXL</FontFamily>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Left>1cm</Left>
+            <Height>1.75cm</Height>
+            <Value>=Fields!producto.Value</Value>
+          </Textbox>
+        </ReportItems>
+        <Top>4cm</Top>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+      </Rectangle>
+      <Rectangle Name="rectangle2">
+        <Left>6cm</Left>
+        <ZIndex>1</ZIndex>
+        <ReportItems>
+          <Textbox Name="textbox2">
+            <Top>2cm</Top>
+            <Width>5.5cm</Width>
+            <Style>
+              <FontFamily>IDAutomationC128XXL</FontFamily>
+              <FontSize>14pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>1</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.25cm</Left>
+            <Height>1.75cm</Height>
+            <Value>=Fields!pedido.Value</Value>
+          </Textbox>
+          <Textbox Name="pedido">
+            <rd:DefaultName>pedido</rd:DefaultName>
+            <Top>0.25cm</Top>
+            <Width>5.5cm</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Left>0.25cm</Left>
+            <Height>1.5cm</Height>
+            <Value>=Fields!pedido.Value</Value>
+          </Textbox>
+        </ReportItems>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <Height>4cm</Height>
+      </Rectangle>
+      <Rectangle Name="rectangle1">
+        <ReportItems>
+          <Textbox Name="textbox1">
+            <rd:DefaultName>textbox1</rd:DefaultName>
+            <Top>0.25cm</Top>
+            <Width>5.5cm</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>1</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.25cm</Left>
+            <Height>1.5cm</Height>
+            <Value>=Fields!nomCliente.Value</Value>
+          </Textbox>
+          <Textbox Name="cliente">
+            <rd:DefaultName>cliente</rd:DefaultName>
+            <Top>2cm</Top>
+            <Width>5.5cm</Width>
+            <Style>
+              <FontFamily>IDAutomationC128XXL</FontFamily>
+              <FontSize>14pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Left>0.25cm</Left>
+            <Height>1.75cm</Height>
+            <Value>=Fields!codCliente.Value</Value>
+          </Textbox>
+        </ReportItems>
+        <Width>6cm</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <Height>4cm</Height>
+      </Rectangle>
+    </ReportItems>
+    <Height>8cm</Height>
+  </Body>
+  <Language>es-ES</Language>
+  <TopMargin>2.5cm</TopMargin>
+  <PageHeight>8cm</PageHeight>
+</Report>

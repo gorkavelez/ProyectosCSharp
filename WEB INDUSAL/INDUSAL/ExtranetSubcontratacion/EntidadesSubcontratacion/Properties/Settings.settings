@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EntidadesSubcontratacion.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="urlInicioWS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://serv-nsql2008:7047/GINDUSAL/WS</Value>
+    </Setting>
+    <Setting Name="useDefCredts" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="empLogin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">02 NAVARRA</Value>
+    </Setting>
+    <Setting Name="urlInicioDefaultWS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://serv-nsql2008:7047/GINDUSAL/WS/02 NAVARRA</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,46 @@
+﻿@media print {
+	.page 
+	{		
+		margin-top:0cm;		
+		margin-left:0cm;
+	}
+
+	.nombre
+	{    
+		font-family:Calibri;
+		font-size:x-large;
+		font-weight:bold;                                    
+	}
+	.codigoBarras
+	{    
+		font-family:Code 39;
+		font-size:large;    
+	} 
+	.boton
+	{
+		display:none;
+	}
+
+}
+
+@media screen {
+	.nombre
+	{    
+		font-family:Calibri;
+		font-size:x-large;
+		font-weight:bold;                                    
+	}
+	.codigoBarras
+	{    
+		font-family:Code 39;
+		font-size:large;    
+	}   
+	.boton
+	{
+		height: 15mm;
+		width: 35mm;
+		font-family:Calibri;
+		font-size:large;
+		font-weight:bold;            
+	}  
+}
