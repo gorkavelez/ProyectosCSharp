@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SaltoConsoleAPPTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SaltoConsoleAPPTest_PageItem_Item_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.0.105:7047/DynamicsNav/WS/SALTO%20SYSTEMS,%20S.L/Page/Item</Value>
+    </Setting>
+    <Setting Name="Credenciales" Type="System.Net.NetworkCredential" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
