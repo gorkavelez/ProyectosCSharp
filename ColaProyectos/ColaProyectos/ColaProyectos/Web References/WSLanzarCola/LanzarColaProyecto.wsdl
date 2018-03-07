@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:tns="urn:microsoft-dynamics-schemas/codeunit/LanzarColaProyecto" targetNamespace="urn:microsoft-dynamics-schemas/codeunit/LanzarColaProyecto" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <schema elementFormDefault="qualified" targetNamespace="urn:microsoft-dynamics-schemas/codeunit/LanzarColaProyecto" xmlns="http://www.w3.org/2001/XMLSchema">
+      <element name="LanzarColaTrabajo">
+        <complexType>
+          <sequence>
+            <element minOccurs="1" maxOccurs="1" name="msgError" type="string" />
+          </sequence>
+        </complexType>
+      </element>
+      <element name="LanzarColaTrabajo_Result">
+        <complexType>
+          <sequence>
+            <element minOccurs="1" maxOccurs="1" name="return_value" type="boolean" />
+            <element minOccurs="1" maxOccurs="1" name="msgError" type="string" />
+          </sequence>
+        </complexType>
+      </element>
+    </schema>
+  </types>
+  <message name="LanzarColaTrabajo">
+    <part name="parameters" element="tns:LanzarColaTrabajo" />
+  </message>
+  <message name="LanzarColaTrabajo_Result">
+    <part name="parameters" element="tns:LanzarColaTrabajo_Result" />
+  </message>
+  <portType name="LanzarColaProyecto_Port">
+    <operation name="LanzarColaTrabajo">
+      <input name="LanzarColaTrabajo" message="tns:LanzarColaTrabajo" />
+      <output name="LanzarColaTrabajo_Result" message="tns:LanzarColaTrabajo_Result" />
+    </operation>
+  </portType>
+  <binding name="LanzarColaProyecto_Binding" type="tns:LanzarColaProyecto_Port">
+    <binding transport="http://schemas.xmlsoap.org/soap/http" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+    <operation name="LanzarColaTrabajo">
+      <operation soapAction="urn:microsoft-dynamics-schemas/codeunit/LanzarColaProyecto:LanzarColaTrabajo" style="document" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+      <input name="LanzarColaTrabajo">
+        <body use="literal" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+      </input>
+      <output name="LanzarColaTrabajo_Result">
+        <body use="literal" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+      </output>
+    </operation>
+  </binding>
+  <service name="LanzarColaProyecto">
+    <port name="LanzarColaProyecto_Port" binding="tns:LanzarColaProyecto_Binding">
+      <address location="http://192.168.0.105:7047/DynamicsNav/WS/SALTO%20SYSTEMS,%20S.L/Codeunit/LanzarColaProyecto" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+    </port>
+  </service>
+</definitions>
