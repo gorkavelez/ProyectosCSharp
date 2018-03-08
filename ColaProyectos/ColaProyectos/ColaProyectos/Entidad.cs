@@ -17,21 +17,16 @@ namespace ColaProyectos
                 {
                     //System.Globalization.CultureInfo enUS = new CultureInfo("en-US");
                     if (System.Globalization.CultureInfo.CurrentCulture.ToString() == "en-US")
-                    {
                         errMsg = System.DateTime.Now.AddHours(6).ToString("dd/MM/yyyy HH:mm:ss", System.Globalization.CultureInfo.CurrentCulture) + " " + errMsg;
-                    }
                     else
-                    {
-                        errMsg = System.DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss", System.Globalization.CultureInfo.CurrentCulture) + " " + errMsg;
-                    }
+                        errMsg = System.DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss", System.Globalization.CultureInfo.CurrentCulture) + " " + errMsg;                    
                 }
 
                 if (!System.IO.File.Exists(path))
                 {
                     System.IO.File.Create(path).Dispose();
                     System.IO.TextWriter tw = new System.IO.StreamWriter(path);
-                    tw.WriteLine(errMsg);
-                    //tw.Close();
+                    tw.WriteLine(errMsg);                    
                     tw.Flush();
                     tw.Close();
                     tw.Dispose();
@@ -39,8 +34,7 @@ namespace ColaProyectos
                 else
                 {
                     System.IO.TextWriter tw = new System.IO.StreamWriter(path, true);
-                    tw.WriteLine(errMsg);
-                    //tw.Close();
+                    tw.WriteLine(errMsg);         
                     tw.Flush();
                     tw.Close();
                     tw.Dispose();

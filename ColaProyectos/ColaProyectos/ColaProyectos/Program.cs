@@ -11,24 +11,25 @@ namespace ColaProyectos
     {
         static void Main(string[] args)
         {
-
-            string Path =@"C:\PDF\Log.txt";
+            string Path = @"C:\PDF\Log.txt";
             Entidad cssEntidad = new Entidad();
-            WSLanzarCola.LanzarColaProyecto SrvLanzar = new LanzarColaProyecto();            
+            WSLanzarCola.LanzarColaProyecto SrvLanzar = new LanzarColaProyecto();
+            SrvLanzar.Timeout = 86400000;
             SrvLanzar.UseDefaultCredentials = true;
-            string msgError = string.Empty;
+            string msgError = string.Empty;            
             try
             {
                 if (SrvLanzar.LanzarColaTrabajo(ref msgError))
-                {                    
-                    cssEntidad.escribirLog(msgError, Path, true);
+                {
+                    cssEntidad.escribirLog("Cola procesada correctamente", Path, true);
                 }
                 else
-                    cssEntidad.escribirLog(msgError, Path, true);
+                    throw new Exception(msgError);                
             }
             catch(Exception ex)
-            {
+            {               
                 cssEntidad.escribirLog(ex.Message, Path, true);
+                
             }
         }
 
