@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ColaProyectos.WSLanzarCola;
+using System.Net;
 
 namespace ColaProyectos
 {
@@ -12,10 +13,14 @@ namespace ColaProyectos
         static void Main(string[] args)
         {
             string Path = @"C:\PDF\Log.txt";
+            ColaProyectos.Properties.Settings config = new Properties.Settings();
             Entidad cssEntidad = new Entidad();
             WSLanzarCola.LanzarColaProyecto SrvLanzar = new LanzarColaProyecto();
-            SrvLanzar.Timeout = 86400000;
-            SrvLanzar.UseDefaultCredentials = true;
+            SrvLanzar.Timeout = 86400000; //24h
+            if (config.User != string.Empty || config.PassWord != string.Empty) 
+                SrvLanzar.Credentials = new NetworkCredential(config.User, config.PassWord, config.Domain);
+            else
+                SrvLanzar.UseDefaultCredentials = true;
             string msgError = string.Empty;            
             try
             {

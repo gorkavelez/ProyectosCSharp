@@ -33,5 +33,32 @@ namespace ColaProyectos.Properties {
                 return ((string)(this["ColaProyectos_WebReference_LanzarColaProyecto"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("admini")]
+        public string User {
+            get {
+                return ((string)(this["User"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("#IT2018!Sal")]
+        public string PassWord {
+            get {
+                return ((string)(this["PassWord"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("SALTO")]
+        public string Domain {
+            get {
+                return ((string)(this["Domain"]));
+            }
+        }
     }
 }

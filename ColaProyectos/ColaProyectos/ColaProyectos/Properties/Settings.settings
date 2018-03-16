@@ -5,5 +5,14 @@
     <Setting Name="ColaProyectos_WebReference_LanzarColaProyecto" Type="(Web Service URL)" Scope="Application">
       <Value Profile="(Default)">http://192.168.0.105:7047/DynamicsNav/WS/SALTO%20SYSTEMS,%20S.L/Codeunit/LanzarColaProyecto</Value>
     </Setting>
+    <Setting Name="User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">admini</Value>
+    </Setting>
+    <Setting Name="PassWord" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">#IT2018!Sal</Value>
+    </Setting>
+    <Setting Name="Domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SALTO</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
