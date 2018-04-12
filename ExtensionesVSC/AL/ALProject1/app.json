@@ -1,0 +1,22 @@
+{
+  "id": "45d0ed41-da55-474e-916a-09c7f89c0f28",
+  "name": "ALProject1",
+  "publisher": "SALTO IT",
+  "brief": "",
+  "description": "Prueba conexion extensiones en base de datos",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "10.0.0.0",
+  "application": "10.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
