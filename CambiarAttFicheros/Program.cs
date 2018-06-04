@@ -32,8 +32,7 @@ namespace CambiarAttFicheros
             catch(Exception ex)
             {
                 Console.WriteLine(ex.Message);
-            }
-            //value.PropertyKey,object
+            }            
             return true;
         }
       
