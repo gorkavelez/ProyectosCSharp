@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Avalara.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="entAvalaraConnector_Taxes_Taxes_Service" Type="(Web Service URL)" Scope="Application">
-      <Value Profile="(Default)">http://192.168.0.105:7047/DynamicsNAV/WS/SALTO%20USA/Page/Taxes</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
