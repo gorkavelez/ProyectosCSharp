@@ -17,7 +17,6 @@ namespace CambiarAttFicheros
             }
             return value.ValueAsObject.ToString();
         }
-
         private static bool SetValue(string filePath)
         {
             try
@@ -34,8 +33,7 @@ namespace CambiarAttFicheros
                 Console.WriteLine(ex.Message);
             }            
             return true;
-        }
-      
+        }      
 
         static void Main(string[] args)
         {                  
